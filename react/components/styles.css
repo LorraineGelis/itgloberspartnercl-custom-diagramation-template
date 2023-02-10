@@ -45,15 +45,14 @@
 }
 
 .grid__itemBig {
-    background-color: deeppink;
-    height: 500px;
-    margin: 10px;
-    width: calc(50% - 20px);
+    display: flex;
+    height: auto;
+    margin: 12px;
+    width: 42%;
 }
 
 .grid__itemSmall {
-    background-color: #ff8fcb;
-    height: 500px;
-    margin: 10px;
-    width: calc(25% - 20px);
+    height: auto;
+    margin: 11px;
+    width: 25%;
 }
